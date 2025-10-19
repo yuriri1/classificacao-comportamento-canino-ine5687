@@ -1,4 +1,5 @@
 data/raw/*.csv
+data/processed/*.csv
 !data/raw/*_sample.csv
 !data/raw/Data_description.txt
 
