@@ -1,5 +1,6 @@
 data/raw/*.csv
 data/processed/*.csv
+data/processed/*.parquet
 !data/raw/*_sample.csv
 !data/raw/Data_description.txt
 
